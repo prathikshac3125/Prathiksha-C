@@ -1,20 +1,20 @@
 # Hi, I'm Prathiksha C! 
 
-🎓 Information Science & Engineering Student  
-💻 Aspiring Software Engineer | AI/ML Enthusiast
+🎓 Information Science & Engineering (ISE) Student  
+💻 Aspiring Software Engineer | 🤖 AI/ML Enthusiast
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in Python, Java, SQL, and Machine Learning.
-- 🤖 Interested in Artificial Intelligence, Generative AI, and Agentic AI.
-- 💡 I enjoy building practical projects that solve real-world problems.
-- 📚 Always learning new technologies and improving my coding skills.
-- 🎯 Goal: Build impactful projects and prepare for software engineering placements.
+- 🎓 Pursuing Information Science & Engineering.
+- 🌱 Learning Python, Java, Machine Learning, and Generative AI.
+- 🤖 Interested in Artificial Intelligence, Agentic AI, and Full-Stack Development.
+- 💡 Building projects to improve my practical coding skills.
+- 🎯 Aspiring to secure a good software engineering placement.
 
 ## 🏆 Featured Projects
 
 ### 🎓 StudentRisk AI
-A machine learning project that predicts students who may need academic support and provides supportive intervention suggestions.
+A machine learning project that predicts students who may need academic support.
 
 **Tech Stack:** Python, Scikit-learn, Random Forest, Streamlit
 
@@ -34,16 +34,15 @@ A desktop application for managing hotel rooms, check-ins, and check-outs.
 
 - **Languages:** Python, Java, C, SQL
 - **AI/ML:** Pandas, NumPy, Scikit-learn
-- **Web & Apps:** HTML, CSS, Streamlit
+- **Web Development:** HTML, CSS, Streamlit
 - **Tools:** Git, GitHub, VS Code
 
-## 📊 GitHub Activity
+## 🎯 Career Goal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathikshac3125&show_icons=true&theme=transparent)
+To become a skilled software engineer by building real-world projects and continuously learning new technologies.
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_PROFILE_URL)
 - 💻 [GitHub](https://github.com/prathikshac3125)
 
 ---
